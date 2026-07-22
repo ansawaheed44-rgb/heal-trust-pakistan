@@ -1,0 +1,6 @@
+{
+  "name": "HealTrust Pakistan",
+  "description": "A trustworthy and safe health education assistant for Pakistan and worldwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
